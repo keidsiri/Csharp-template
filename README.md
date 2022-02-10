@@ -47,3 +47,11 @@ Detailed description
 * no known bugs
 
 ### License
+
+[MIT License](https://opensource.org/licenses/MIT)
+Copyright 2021 Kate Kiatsiri
+
+## Support and contact details
+
+* [Kate Kiatsiri](github.com/keidsiri) 
+* <keidsiri@gmail.com>
